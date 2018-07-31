@@ -5,7 +5,6 @@
  */
 package com.bancodebofota.fdm.ci.test;
 
-import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
@@ -32,9 +31,6 @@ public class TestCIMainTest {
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
-
-    /**
-     * Test of main method, of class TestCIMain.
 
     
 }
